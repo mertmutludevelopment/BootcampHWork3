@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="baslik">Choose Your Side!</string>
+    <string name="text1">The Dark Side harnesses the power of fear, anger, and hatred to dominate and control.</string>
+    <string name="text2">Sith Lords, driven by their quest for ultimate power, seek to overthrow the Jedi Order.</string>
+    <string name="text3">Unlimited power comes at a cost: the loss of ones humanity and connection to others.</string>
+    <string name="btnText1">Dark Side</string>
+    <string name="btnText2">Other Side</string>
+</resources>
